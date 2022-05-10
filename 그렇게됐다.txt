@@ -1,5 +1,0 @@
-여름이었다.
-작업111111111
-git add .
-git commit -m "third commit"
-git push
